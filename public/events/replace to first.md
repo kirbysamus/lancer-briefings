@@ -1,1 +1,58 @@
-Insert event log information here.
+# Union Naval Department to Light Carrier UNS Avon // 2.21.5014u
+
+>//: Distress Call received 2 Standard Months ago from EVERGREEN, a colony on the planet HERCYNIA in the ATLAS line, seeking aid against unidentified aggressors.
+
+>//: EVERGREEN is under the administration of LANDMARK COLONIAL, a minor subsidary corporation of SMITH-SHIMANO CORPRO. First objective is to make contact with local LC Representative and integrate into local hierarchy.
+
+>//: Situation on-ground is to be treated with utmost care. Recent investigation suggests possibility of extant human populations on HERCYNIA upreported by LC. Ground Team is advised not to reveal these suspicions to LC Personnel unless deemed necessary.
+
+>//: Further research has yielded little information about HERCYNIA'S history prior to founding of EVERGREEN. Data suggests HERCYNIA was once subject to widespread and catastrophic military action by SECCOMM, though records lack meaningful detail. Recent scans show large irradiated zones on planetary surface, as well as decayed and encrypted communications broadcasting on-loop. Ground Team should expect to encounter remnants of SECCOMM presence: unexploded ordinance, waste radiation, and potentially even derelict military installations.
+
+>//: HERCYNIA planetary and Blink Gate information to follow.
+
+
+UNION OFFICE OF CARTOGRAPHY AND UNIVERSAL POSITIONING
+  -+-+--- INVENIO NOSTER LOCUS INTER ASTRA ---+-+-
+UNRESTRICTED
+FILE#557FDCAAFD3C11A6FDBAB6F7112CEFF0
+CONFIG -ORB -SURF -HAB
+RETRIEVED:5014.159282
+
+Name: Hercynia
+Gate: Atlas-Ouanoukrim/1.523ly
+Position: CRDL5014.093:3.034285PRX/302.873ly
+Local omninode: 8E0C0E08726F17D6D9D7F444.000[Evergreen Actual, Reg. Landmark]
+
+– ORBIT –
+EPC:4955.000
+SMA:1.32067e11
+ECC:0.090562
+INC:0.14921(INV)aw
+LAN:3.13810
+AOP:0.26821
+PRD:243.35CRD/259.85LOC
+
+– SURFACE –Sol: 20h 28m 32s Cradle standard
+
+Axial tilt: 15° 2’ 33”
+Equatorial radius: 6109.42 km
+Gravity: 1.09 Cradle standard
+Core: K (cooling)
+Dipole: 0.212 GR3
+Crust: B (mostly stable)
+Landmass: 30%
+Habitability: M- (biome reconstruction in progress)
+Datum pressure: 109.117kPa
+Satellites: 2
+
+– HABITATION –
+Colonial charter of Hercynia was awarded to Landmark Colonial in 4943U. Its first settlement, Evergreen, was founded in 4946 and remains the center of the colony.
+
+FURTHER INQUIRY: BCA/LANDMARK/HERCYNIA
+
+++ ALERTS ++
+Vessels entering Hercynian orbit should be advised of high debris density. 
+No traffic control is present in-system.
+The Quarantine of Hercynia was lifted following USB recommendation in 4942U. The quarantine alert, registered with CUP and broadcast locally, is archived below.
+
+begin/TOTAL QUARANTINE IN EFFECT ON HERCYNIA//ALL SHIPS TO AVOID SOI//STELLAR TRANSFER ORBITS ONLY//UNION NAVY WEAPONS FREE IN AO/end
