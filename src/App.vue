@@ -1,7 +1,7 @@
 <template>
   <Header :header="this.header" />
   <div class="content-container">
-    <section class="section-container" id="missions" style="width:435px; height:714px;">
+    <section class="section-container" id="missions" style="missionSectionStyle">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
         <h1>Mission Log</h1>
@@ -21,7 +21,7 @@
         </div>
       </div>
     </section>
-    <section class="section-container" id="events" style="width:435px; height:714px;">
+    <section class="section-container" id="events" style="eventsSectionStyle">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
         <h1>Events Log</h1>
@@ -30,7 +30,7 @@
         <Markdown :source="events" class="markdown" />
       </div>
     </section>
-    <section class="section-container" id="pilots" style="width:894px; height:714px;">
+    <section class="section-container" id="pilots" style="pilotSectionStyle">
       <div style="height:52px; overflow:hidden;">
         <div class="section-header clipped-medium-backward-pilot">
           <img src="/icons/pilot-icon.svg" />
@@ -147,8 +147,8 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Union",
-        "headerSubtitle": "Naval Department",
+        "headerTitle": "UNION NAVAL DEPARTMENT",
+        "headerSubtitle": " ",
         "subheaderTitle": "Crisis Response Team",
         "subheaderSubtitle": "Auxiliary ARDENNES-3",
       },
