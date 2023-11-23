@@ -20,7 +20,7 @@ Test until things get solidified.
 
 ---
 ## Mech Art
-![image](/mechs/There_Can_Be_Only_One.png)
+![image](/mechs/There Can Be Only One.png)
 
 ---
 ## Clocks
