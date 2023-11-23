@@ -12,3 +12,17 @@ Test until things get filled out
 - He swears by gelato, specifically lemon flavored, and insists that if people tried it they would "get it."
 
 - He comes from a large family of brothers and sisters who all wish he'd move back in and find a more sustainable line of work.
+
+---
+## Mech Art
+![image](/mechs/Avalanche_Fang.png)
+
+---
+## Clocks
+
+**- None at this Time**
+
+---
+## Reserves
+
+**- None at this Time**
