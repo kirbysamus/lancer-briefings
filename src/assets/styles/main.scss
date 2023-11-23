@@ -130,7 +130,7 @@ header {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.15em;
-    color: $secondary;
+    color: $secondary
   }
 
   #title-subheader {
@@ -169,7 +169,7 @@ header {
 }
 
 .logo {
-  width: 50px;
+  width: 80px;
   height: 80px;
   margin-left: 15px;
 }
@@ -214,18 +214,19 @@ header video {
   height: 86px;
 }
 
-div .location-info {
+.location-info {
   height: 90px;
   width: 550px;
-  padding: 10px;
-  margin-left: 20px;
+  padding: 0px;
+  margin-left: 29px;
+  margin-top: 5px;
   display: flex;
   flex-direction: column;
   color: $text-location;
 }
 
 header video,
-div.location-info {
+.location-info {
   animation: 0.5s ease 1 flickerIn;
   animation-delay: 2s;
   animation-fill-mode: forwards;
@@ -233,20 +234,21 @@ div.location-info {
 }
 
 .location-row {
-  height: 40px;
+  height: 37px;
   display: flex;
+  width: 399px;
   h4 {
     margin: 0px;
-    line-height: 1.5em;
+    line-height: 0.5em;
     font-family: "Raleway", sans-serif;
-    font-size: 10px;
+    font-size: .5em;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: $text-location;
   }
   .subtitle {
-    font-size: 18px;
+    font-size: .9em;
     margin: 0%;
     align-self: center;
     font-family: "Big Shoulders Display", cursive;
@@ -387,9 +389,9 @@ section .section-header {
 }
 
 .clipped-medium-backward-bio {
-  width: 552px;
-  clip-path: polygon(0 0, 500px 0, 552px 100%, 0% 100%);
-  -webkit-clip-path: polygon(0 0, 500px 0, 552px 100%, 0% 100%);
+    width: 334px;
+    clip-path: polygon(0 0,500px 0,552px 100%,0% 100%);
+    -webkit-clip-path: polygon(0 0,300px 0,350px 100%,0% 100%);
 }
 
 .clipped-x-large-forward {
@@ -513,7 +515,7 @@ section .section-header {
   }
 
   .mech-loadout {
-    width: 250px;
+    width: 245px;
     display: flex;
     flex-direction: column;
     row-gap: 0px;
@@ -527,7 +529,7 @@ section .section-header {
   }
 
   .mech-portrait {
-    width: 104px;
+    width: 120px;
     height: 136px;
     object-fit: cover;
   }
@@ -600,7 +602,7 @@ section .section-header {
 }
 
 .pilot-wrapper:hover .middle {
-  width: 757px;
+  width: 770px;
 }
 
 .pilot-wrapper:active .middle,
@@ -615,6 +617,7 @@ section .section-header {
   top: 142px;
   display: flex;
   gap: 5em;
+  z-index: 999999;
 }
 
 .pilot-modal {
@@ -653,6 +656,7 @@ section .section-header {
       font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.1em;
+      color: $secondary;
     }
   }
 
@@ -672,18 +676,17 @@ section .section-header {
     background-color: $secondary;
     border: 1px solid $primary;
     margin-top: -38px;
-    width: 888px;
-    height: 662px;
-
+    margin-right: 40px;
+  }
     div.markdown {
       height: 662px;
     }
   }
-}
 
 .pilot-modal.portrait {
   .pilot {
     width: 600px;
+    height: 661px;
   }
 
   img.portrait {
@@ -726,6 +729,7 @@ section .section-header {
   right: 0;
   top: 0;
   background-color: rgba(10, 10, 10, 0.7);
+  z-index: 999999;
 }
 
 footer {
@@ -772,6 +776,7 @@ div.markdown {
   border-bottom: 1px solid $primary;
   height: 350px;
   overflow-y: auto;
+  overflow-x: hidden;
   transition: height 0.5s ease-in-out;
 
   p strong {
