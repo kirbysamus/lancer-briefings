@@ -3,7 +3,7 @@
     <Header :header="header" />
     <v-container>
       <div class="content-container">
-            <section class="section-container" id="missions" :style="width:435px; height:714px;">
+            <section class="section-container" id="missions" :style="missionSectionStyle">
               <div class="section-header clipped-medium-backward">
                 <img src="/icons/mission-icon.svg" />
                 <h1>Mission Log</h1>
