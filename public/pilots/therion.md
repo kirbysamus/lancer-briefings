@@ -15,7 +15,7 @@ Test until things get filled out
 
 ---
 ## Mech Art
-![image](/mechs/Avalanche_Fang.png)
+![image](/mechs/Avalanche%20Fang.png)
 
 ---
 ## Clocks
