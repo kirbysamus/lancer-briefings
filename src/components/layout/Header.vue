@@ -84,6 +84,7 @@
     margin-top: -23px;
 }
   }
+  </style>
 <template>
   <header class="clipped-x-large-forward">
     <div class="title clipped-x-large-forward">
