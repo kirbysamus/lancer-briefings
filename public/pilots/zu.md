@@ -1,7 +1,7 @@
-Broke out of a place, killed a man, stole his callsign, and booked it.
+Test Text
 
 ## Trivia
-- While his passion lies elsewhere, he works as a Lancer Mercenary simply due to his innate abilities as a Mech Pilot.
+- Antonio has several ponchos in his wardrobe he wears for different occasions: a rugged maroon one for sorties, a dark jade one for wildlife camo/exploration, and a soft brown one for casual wear.
 
 - The name "Type - Worst Beat" was given to his Mech by himself as a cruel reminder of the industry's failings.
 
@@ -15,7 +15,7 @@ Broke out of a place, killed a man, stole his callsign, and booked it.
 
 ---
 ## Mech Art
-![image](/mechs/Legacy.png)
+![image](/mechs/Mayfly.png)
 
 ---
 ## Clocks
