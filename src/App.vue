@@ -211,8 +211,132 @@ export default {
 
 <style lang="scss">
 #app {
-  width: 1902px;
-  height: 910px;
-  overflow: hidden;
+  position: relative;
+   width: 100vw; /* Use viewport width */
+  height: 100vh; /* Use viewport height */
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+ }
+  .header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999; /* Adjust the z-index value as needed */
 }
+.container {
+  display: flex;
+   flex-wrap: wrap;
+   flex-basis: 50%;
+  justify-content: center;
+}
+
+.section {
+  flex: 1 1 100%;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+  .col-mobile {
+  width: 100%;
+}
+
+  @media (max-width: 767px) {
+  /* Styles for mobile devices */
+
+ #app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    position: relative;
+    height: 100vh;
+    overflow-x: hidden;
+  }
+
+  .content-container {
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: flex;
+    max-width: 1000px; /* Set a maximum width for the content container */
+    width: 100%; /* Set the initial width to 100% */
+    padding: 3em;
+    box-sizing: border-box;
+    flex-direction: column;
+    flex: 1 1 auto;
+  }
+
+  #missions,
+  #events,
+  #pilots {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .section {
+    flex: 1 1 100%;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .section-header img {
+    max-width: 50px;
+    margin-right: 10px;
+  }
+
+ .section-container {
+    width: 100%;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .section-content-container {
+    padding: 10px;
+  }
+
+  .pilot-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+.section-container {
+  #pilots {
+    height: 34px;
+    overflow: hidden;
+  }
+}
+  .markdown {
+    /* Styles for Markdown content */
+  }
+
+  .missions {
+    flex-basis: 100%;
+    order: 1;
+  }
+
+  .events {
+    flex-basis: 100%;
+    order: 2;
+  }
+
+  .pilots {
+    flex-basis: 100%;
+    order: 3;
+  }
+  #pilots .section-header.clipped-medium-backward {
+    height: 86px;
+    overflow-y: hidden;
+  margin-bottom: -61px;
+  }
+  }
 </style>
