@@ -12,3 +12,17 @@ Broke out of a place, killed a man, stole his callsign, and booked it.
 - He swears by gelato, specifically lemon flavored, and insists that if people tried it they would "get it."
 
 - He comes from a large family of brothers and sisters who all wish he'd move back in and find a more sustainable line of work.
+
+---
+## Mech Art
+![image](/mechs/Legacy.png)
+
+---
+## Clocks
+
+**- None at this Time**
+
+---
+## Reserves
+
+**- None at this Time**
