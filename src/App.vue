@@ -46,7 +46,7 @@
     </section>
   </div>
   <svg
-    style="visibility: hidden; position: absolute;"
+    style="visibility: hidden; position: relative;"
     width="0"
     height="0"
     xmlns="http://www.w3.org/2000/svg"
