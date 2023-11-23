@@ -150,7 +150,7 @@ export default {
         "headerTitle": "Union",
         "headerSubtitle": "Naval Department",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Temp Auxiliary ARDENNES-3",
+        "subheaderSubtitle": "Auxiliary ARDENNES-3",
       },
       "options":{
         "eventsMarkdownPerMission": true
