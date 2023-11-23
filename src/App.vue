@@ -149,7 +149,7 @@ export default {
         "ring": "Atlas-Line",
         "headerTitle": "Union",
         "headerSubtitle": "Naval Department",
-        "subheaderTitle": "Crisis Response",
+        "subheaderTitle": "Crisis Response Team",
         "subheaderSubtitle": "Auxiliary ARDENNES-3",
       },
       "options":{
