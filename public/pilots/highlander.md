@@ -17,3 +17,17 @@ Test until things get solidified.
 - Only owns 2 sets of casual wear
 
 - Will steal anything halfway worth stealing if they think they can get away with it
+
+---
+## Mech Art
+![image](/mechs/There_Can_Be_Only_One.png)
+
+---
+## Clocks
+
+**- None at this Time**
+
+---
+## Reserves
+
+**- None at this Time**
