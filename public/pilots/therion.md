@@ -1,3 +1,13 @@
+Alma Voidbrooke
+
+Age 24
+
+Gender: Female
+
+Height: 5' 8"
+
+Weight 170 lbs
+
 Alma Voidbrooke was born and raised on Sparr, where she was instilled with her people's cultural values as well as received most of her combat training. In her early adulthood she left her planet to seek glory and triumph worthy to have tattooed upon her person, as many traditional Sparri people do. Heeding the advice of her elders, she decided to start with something on the easier side to become accustomed to space travel and working in organized units before taking on anything grand. She signed up to become a security officer, seeing it as a means to further her training and obtain experience, as well as have opportunities to interact with people of other cultures.
 
 During her time as a security officer, she had several difficulties related to how she chose to handle situations, often using more force than necessary or causing small amounts of property damage during the capture of criminals and suspects, however even despite this, she has not yet killed anyone by accident due to a combination of restraint and her training. While she regards this period of her life as relatively boring, it did lead her to encountering people who would change her views on Union and give her new goals in life.
@@ -15,7 +25,7 @@ Her superior officers were glad to approve her transfer to The Long Rim, as her 
 
 - Practices various superstitions including but not limited to carrying lucky charms, affixing protective talismans to hardsuit, and leaving offerings for spirits.
 
-- His Frame cockpit has been outfitted in such a way that allows him to use it as an abode while traveling and to avoid inn fees.
+- Pansexual
 
 - He swears by gelato, specifically lemon flavored, and insists that if people tried it they would "get it."
 
