@@ -1,4 +1,4 @@
-Broke out of a place, killed a man, stole his callsign, and booked it.
+This is merely a test.
 
 ## Trivia
 - While his passion lies elsewhere, he works as a Lancer Mercenary simply due to his innate abilities as a Mech Pilot.
