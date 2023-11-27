@@ -1,4 +1,14 @@
-This is merely a test.
+Height: 167cm
+
+Weight: 59kg
+
+Sex: Female
+
+Hair color: Brown
+
+Eye color: Amber
+
+Notable features: Feline ears, vertical slit pupil
 
 ## Trivia
 - While his passion lies elsewhere, he works as a Lancer Mercenary simply due to his innate abilities as a Mech Pilot.
