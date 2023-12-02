@@ -27,9 +27,9 @@ Her superior officers were glad to approve her transfer to The Long Rim, as her 
 
 - Pansexual
 
-- He swears by gelato, specifically lemon flavored, and insists that if people tried it they would "get it."
+- Alma loves animals, and is fascinated by strange animals from other worlds.
 
-- He comes from a large family of brothers and sisters who all wish he'd move back in and find a more sustainable line of work.
+- Alma is something of an adrenaline junky. She loves the rush of simulated combat, driving fast vehicles, and practicing parkour in places she shouldn't.
 
 ---
 ## Mech Art
