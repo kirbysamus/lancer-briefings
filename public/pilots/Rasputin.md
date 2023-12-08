@@ -1,3 +1,7 @@
+C1-770
+
+Age: 22 years subjective
+
 Height: 167cm
 
 Weight: 59kg
@@ -10,18 +14,21 @@ Eye color: Amber
 
 Notable features: Feline ears, vertical slit pupil
 
+Born as the youngest daughter of a moderately wealthy core-world merchant family, Allie was promised largely nothing as an inheritance. Instead, her parents paid for an academy education and her life away from home. For just over a decade, she spent nearly every waking moment in training simulations and tactics training on an academic level, with nearly perfect marks in every course and no social life.
+
+Over the course of many simulated battles in the academy training grounds, she earned the nickname of Rasputin for her seeming inability to stay down, regardless of the damage taken.
+
+Just before her 22nd birthday, she graduated in the top percent of her class, and immediately signed on with Union for a Farfield Team assignment, mostly against the wishes of her family, who cut off financial support. On her way to her first posting with a farfield team, the ship carrying her picks up a distress beacon from the Ardennes-3 system, and she is obligated to investigate.
+
 ## Trivia
-- While his passion lies elsewhere, he works as a Lancer Mercenary simply due to his innate abilities as a Mech Pilot.
+- On entering space for the first time, she felt compelled to find the edge of the space to push something off.
 
-- The name "Type - Worst Beat" was given to his Mech by himself as a cruel reminder of the industry's failings.
+- She refuses to take the eyepatch off of her right eye, even when sleeping and bathing.
 
-- He carries a bag full of BetaMixes of CMP to give to strangers in hopes of finding kindred spirits who appreciate his style of music.
+- Curiosity occasionally overcomes her better judgment.
 
-- His Frame cockpit has been outfitted in such a way that allows him to use it as an abode while traveling and to avoid inn fees.
+- She has no human ears under her hair.
 
-- He swears by gelato, specifically lemon flavored, and insists that if people tried it they would "get it."
-
-- He comes from a large family of brothers and sisters who all wish he'd move back in and find a more sustainable line of work.
 
 ---
 ## Mech Art
