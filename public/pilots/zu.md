@@ -35,7 +35,7 @@ He's performed several short-term explorations of planets during his short stint
 
 ---
 ## Mech Art
-![image](/mechs/Mayfly.png)
+![image](/mechs/Anzu.png)
 
 ---
 ## Clocks
