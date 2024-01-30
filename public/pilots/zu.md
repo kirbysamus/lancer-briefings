@@ -14,7 +14,7 @@ Eye color: Amber
 
 Notable features: Broad shouldered, stout
 
-Antonio’s story began in a relatively mundane manner amid the strife of the stars. A cosmopolitan, he was born on a city-ship, given birth by a pair of scientists, happily married and eager to show their family the infinite expanse of the stars. Astrologists and biologists, his parents made every preparation necessary for a safe and healthy birth, and made certain that Antonio grew into intellectuals the scientific pair would be proud of. Exploring theoretics and educational subject matter with an eager and curious mind, he eventually began to wonder about what lie beyond the stars. Shortly after adulthood, he gave into his wanderlust and set off to enlist, joining the Far-Field Team as his parents have. 
+Antonio’s story began in a relatively mundane manner amid the strife of the stars. A cosmopolitan, he was born on a city-ship, given birth by a pair of scientists, happily married and eager to show their family the infinite expanse of the stars. Astrologists and biologists, his parents made every preparation necessary for a safe and healthy birth, and made certain that Antonio grew into an intellectual the scientific pair would be proud of. Exploring theoretics and educational subject matter with an eager and curious mind, he eventually began to wonder about what lie beyond the stars. Shortly after adulthood, he gave into his wanderlust and set off to enlist, joining the Far-Field Team as his parents have.
 
 He's performed several short-term explorations of planets during his short stint as a Far-Fielder, but hasn't yet made a promising finding for a hospitable planet for the human species, which weighs on him. 
 
