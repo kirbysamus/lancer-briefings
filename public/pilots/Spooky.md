@@ -11,17 +11,17 @@ History: Alexandra grew up on a core world, seems to have few friends and prefer
 She entered the academy surprising to everyone's expectations. Though she did not seem like the kind of person who'd choose such a dangerous line of work, she adapted fast, to everyone's surprise. She shown enough skill with piloting mechs, though what she lacked in combat knowledge, she more than made up for in electronic warfare
 
 ## Trivia:
--Always wears a coat or hoodie with the hood up.
+- Always wears a coat or hoodie with the hood up.
 
--Carries a seperate game console for her own entertainment purposes
+- Carries a seperate game console for her own entertainment purposes
 
--People who have worked with her on the field have reported she seems normal, but feels off, almost unnerving.
+- People who have worked with her on the field have reported she seems normal, but feels off, almost unnerving.
 
--Has a sweet tooth.
+- Has a sweet tooth.
 
--She has livestreamed in the past, as a vtuber under the username Spooky_Time
+- She has livestreamed in the past, as a vtuber under the username Spooky_Time
 
--Posts on social media quite a bit.
+- Posts on social media quite a bit.
 
 ---
 ## Mech Art
