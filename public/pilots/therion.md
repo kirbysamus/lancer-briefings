@@ -38,9 +38,11 @@ Her superior officers were glad to approve her transfer to The Long Rim, as her 
 ---
 ## Clocks
 
-**- None at this Time**
+**- Digging up the Past**
+
+![image](/clocks/06/6clock_5.png)
 
 ---
 ## Reserves
 
-**- None at this Time**
+**- Core Battery**
