@@ -35,4 +35,4 @@ She entered the academy surprising to everyone's expectations. Though she did no
 ---
 ## Reserves
 
-**- None at this Time**
+**- Core Battery**
