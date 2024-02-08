@@ -91,7 +91,7 @@ export default {
     return {
       "mission_slug": "001",
       "current_md": "",
-      "events": "",
+      "events": "002(Downtime1)",
       "missions": [
         {
           "slug": "001",
