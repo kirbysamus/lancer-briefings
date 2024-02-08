@@ -1,9 +1,15 @@
 Age: 24
+
 Height: 152.4 cm
+
 Weight: 54kg
+
 Sex: Female
+
 Pronouns: She/Her
+
 Hair Color: Black
+
 Eye color: Blue
 
 History: Alexandra grew up on a core world, seems to have few friends and prefered the solitude of her own quarters, spending free time learning various forms of programming or building electronics in her free time. She appears to also spend her time livestreaming as a form of social interaction. 
