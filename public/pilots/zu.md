@@ -45,4 +45,4 @@ He's performed several short-term explorations of planets during his short stint
 ---
 ## Reserves
 
-**- None at this Time**
+**- Core Battery**
