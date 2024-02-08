@@ -30,4 +30,4 @@ Test until things get solidified.
 ---
 ## Reserves
 
-**- None at this Time**
+**- Core Battery**
